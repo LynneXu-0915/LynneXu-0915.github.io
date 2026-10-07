@@ -1,152 +1,168 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Lynne J. Xu",
+    "label": "Ph.D. Candidate, Environmental Sciences",
+    "email": "lxu070@ucr.edu",
+#    "website": "https://LynneXu-0915.github.io",
+    "summary": "Ph.D. candidate at the University of California, Riverside studying Southern California air quality. My research uses atmospheric chemical transport and dispersion models (WRF-Chem, AERMOD, WRF-STILT) together with observational data to examine wildfire plume transport and dispersion, transportation-related emissions, and their impacts on nearby communities.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Riverside",
       "countryCode": "US",
-      "region": ""
+      "region": "CA"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "LynneXu-0915",
+        "url": "https://github.com/LynneXu-0915"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "University of California, Riverside",
+      "position": "Graduate Student Researcher",
+      "startDate": "Jan 2023",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Created hypothetical scenarios of identical fire conditions with different dates and corresponding meteorological conditions to analyze differences in the movement and dispersion of wildfire plumes. Built statistical models to predict wildfire plume dispersion and exposure of nearby residents.",
+        "Integrated computer-modeled transportation-related emissions into an atmospheric chemical transport model and analyzed the impact of the modeled emissions.",
+        "Analyzed observational air quality data to examine the relative impact of local and long-range transport emissions, supporting conclusions with modeled results."
+      ]
+    },
+    {
+      "company": "University of California, Riverside",
+      "position": "Research Assistant",
+      "startDate": "Mar 2022",
+      "endDate": "Sep 2022",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "University of California, Riverside",
+      "position": "Undergraduate Researcher",
+      "startDate": "Nov 2021",
+      "endDate": "Mar 2022",
+      "summary": "Engaged in air quality modeling research.",
+      "highlights": []
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of California, Riverside",
+      "area": "Ph.D., Environmental Sciences",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "Expected June 2027",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "University of California, Riverside",
+      "area": "B.S., Environmental Sciences (Minor in Statistics; Concentration in Natural Sciences)",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "endDate": "March 2022",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
+  "awards": [
+    {
+      "title": "NSF Research Traineeship (NRT) SPEAKS Fellow",
+      "date": "2023 - 2024",
+      "awarder": "National Science Foundation",
+      "summary": "Science to Policy Education: Activating Knowledge for Sustainable Transportation (SPEAKS). Training in sustainable transportation, public speaking, and a science-to-policy certificate, working with experts involved in policy-making."
+    },
+    {
+      "title": "Dean's Distinguished Fellowship",
+      "date": "Fall 2023",
+      "awarder": "University of California, Riverside",
+      "summary": ""
+    }
+  ],
+  "skills and L": [
+    {
+      "name": "Atmospheric Modeling",
+      "keywords": [
+        "WRF-Chem (Weather Research and Forecasting model coupled with Chemistry)",
+        "AERMOD (EPA atmospheric dispersion model)",
+        "WRF-STILT (Lagrangian particle dispersion model driven by WRF meteorology)"
+      ]
+    },
+    {
+      "name": "Programming and Analysis",
+      "keywords": [
+        "R / RStudio",
+        "Python"
+      ]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "publications": [],
+#  "presentations": [
+#    {
+#      "name": "Seasonal Variability and Meteorological Drivers Affecting California Wildland Fire Emissions Transport and Human Health Impacts",
+#      "event": "American Meteorological Society 106th Annual Meeting (Oral)",
+#      "date": "2026-01"
+#    },
+#    {
+#      "name": "Analyzing the Meteorology Driven Spatial-temporal Variability in Transportation Air Quality Impacts on Neighboring Communities",
+#      "event": "American Meteorological Society 106th Annual Meeting (Oral)",
+#      "date": "2026-01"
+#    },
+#    {
+#      "name": "Poster Presentation",
+#      "event": "American Meteorological Society 105th Annual Meeting",
+#      "date": "2025-01"
+#    },
+#    {
+#      "name": "Poster Presentation",
+#      "event": "American Geophysical Union Fall Meeting",
+#      "date": "2023-12"
+#    },
+#    {
+#      "name": "Poster Presentation",
+#      "event": "Informal Gathering on Atmospheric Science and Photochemistry",
+#      "date": "2023-10"
+#    },
+#    {
+#      "name": "Poster Presentation",
+#      "event": "Early Career Scientist Symposium",
+#      "date": "2023-06"
+#    },
+#    {
+#      "name": "Poster Presentation",
+#      "event": "American Geophysical Union Fall Meeting",
+#      "date": "2022-12"
+#    },
+#    {
+#      "name": "Poster Presentation",
+#      "event": "International Association of Wildland Fire",
+#      "date": "2022-04"
+#    }
+#  ],
+#  "teaching": [
+#    {
+#      "course": "Teaching Assistant, Spring Quarter 2026",
+#      "institution": "University of California, Riverside",
+#      "date": "2026-03"
+#    },
+#    {
+#      "course": "Teaching Assistant, Spring Quarter 2025",
+#      "institution": "University of California, Riverside",
+#      "date": "2025-03"
+#    },
+#    {
+#      "course": "Teaching Assistant, Spring Quarter 2024",
+#      "institution": "University of California, Riverside",
+#      "date": "2024-03"
+#    }
+#  ],
+#  "portfolio": []
 }

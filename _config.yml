@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Lynne Xu's Research"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Lynne Xu"
 title_separator          : "-"
 name                     : &name "Lynne Xu"
 description              : &description "Lynne Xu's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,10 +23,10 @@ repository               : "https://LynneXu-0915.github.io/LynneXu.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "_M9A1455-53 (1).jpg"
-  name             : "Your Sidebar Name"
+  avatar           : "gradpic.jpg"
+  name             : "Lynne Xu"
   pronouns         : # example: "she/her"  
-  bio              : "Lynne uses chemical transport models to investigate meteorological impacts on atmospheric transport and plume evolution of pollution from California wildland fires"
+  bio              : "Atmospheric Modeler"
   location         : "California"
   employer         : "University of California, Riverside"
   uri              : # URL
@@ -35,14 +35,13 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&user=nQs603UAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0004-2020-5799"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : 
   scopus           : # URL
   zotero           : # URL
 
@@ -51,13 +50,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : 
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :  # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
